@@ -63,6 +63,7 @@ To get started with PrimeFlix locally, follow these steps:
 ### **1. Clone the repository**
 bash
 git clone https://github.com/mustafa-masood/PrimeFlix.git
+
 cd PrimeFlix
 ### **2. Install dependencies**
 bash
@@ -77,7 +78,7 @@ You can get your API key by creating an account on [TMDB](https://www.themoviedb
 ### **4. Start the development server**
 bash
 npm run dev
-This will start the app in development mode. Open [http://localhost:3000](http://localhost:3000) in your browser to view the app.
+This will start the app in development mode. Open [http://localhost:5174](http://localhost:5174) in your browser to view the app.
 
 ---
 
@@ -122,15 +123,3 @@ Contributions are always welcome! Please follow these steps if you'd like to con
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-### **Additional Notes**
-
-- **Replace the placeholder image URLs**: Replace the image URLs above with your actual image paths or URLs.
-- **GitHub Pages URL**: Replace `mustafa-masood` in the GitHub Pages URL (`https://mustafa-masood.github.io/PrimeFlix/`) with your actual GitHub username.
-- **Customization**: You can modify the project to suit your specific requirements. Feel free to add more features and styles as needed.
-
-
-### Key things to update:
-1. **Screenshots**: The screenshots section now has placeholders. Be sure to replace the image URLs with actual paths to your images.
-2. **GitHub Pages URL**: The link for your GitHub Pages deployment is using your GitHub username (mustafa-masood). If you deploy on your GitHub page, make sure to change the username if needed.
-3. **API Key**: Don’t forget to add the .env file with your **TMDB API key**.
